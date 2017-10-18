@@ -1,5 +1,5 @@
 sms:
-  suffix: lanbo1122233
+  suffix: lanbo11222334444
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
